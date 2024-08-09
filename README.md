@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Max 👋
 
 I'm currently studying how to become a software engineer at the Institute of Data 
 
