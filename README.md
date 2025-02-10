@@ -1,6 +1,7 @@
 ## Hey, I'm Max 👋
 
-I'm currently studying how to become a software engineer at the Institute of Data 
+Innovative recent software engineer graduate with hands-on experience in full-stack development using JavaScript, React, Node.js, and MySQL. Passionate about delivering robust, user-centric applications and continuously expanding my technical skills.
+
 
 <!--
 **wilkofm/wilkofm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
