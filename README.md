@@ -1,6 +1,6 @@
 ## Hey, I'm Max 👋
 
-Innovative recent software engineer graduate with hands-on experience in full-stack development using JavaScript, React, Node.js, and MySQL. Passionate about delivering robust, user-centric applications and continuously expanding my technical skills.
+Innovative recent software engineer graduate with hands-on experience in full-stack development using JavaScript, React and MySQL. Passionate about delivering robust, user-centric applications and continuously expanding my technical skills.
 
 
 <!--
