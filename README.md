@@ -1,6 +1,6 @@
 ## Hey, I'm Max 👋
 
-Innovative software engineer graduate with hands-on experience in full-stack development using JavaScript, React and MySQL. Enthusiastic, creative, with an outgoing personality, who values a team environment but also enjoys the challenge of self-directed tasks. Passionate about delivering robust, user-centric applications and continuously expanding my technical skills.
+Innovative software engineer graduate with hands-on experience in full-stack development using React, JavaScript and MySQL. Enthusiastic, creative, with an outgoing personality, who values a team environment but also enjoys the challenge of self-directed tasks. Passionate about delivering robust, user-centric applications and continuously expanding my technical skills.
 
 <h2> Languages and Tools I Use 🖌️</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
