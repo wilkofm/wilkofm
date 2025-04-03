@@ -22,15 +22,11 @@ Currently seeking opportunities to grow as a developer and build meaningful soft
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="42" height="42"/>
 </p>
 
-## 🎬 Featured Project: [CineMax](https://github.com/wilkofm/capstone-project)
+### 🎬 Featured Project: [CineMax](https://github.com/wilkofm/capstone-project)
 
 A movie-tracking web app where users can manage their watchlists, rate and review films, customize their profile and engage with a film-loving community. Built with React, Node.js, and MySQL, CineMax features user authentication, protected routes, and a dynamic backend to customize your own movie database.
 
-## 📊 GitHub Stats
-
-![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilkofm&show_icons=true&theme=radical)
-
-## 🚀 Let's Connect!
+### 🚀 Let's Connect!
 
 I'm open to junior software engineering opportunities, collaborations, or chatting about tech. Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/max-wilkinson-b35aa29b/) or check out my work below!
 
